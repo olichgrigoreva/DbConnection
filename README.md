@@ -1,0 +1,1 @@
+//TODO properties для БД
