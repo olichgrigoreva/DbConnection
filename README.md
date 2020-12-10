@@ -1,1 +1,3 @@
-//TODO properties для БД
+//TODO properties for DB
+
+DB phpMyAdmin
